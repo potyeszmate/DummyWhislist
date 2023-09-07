@@ -1,2 +1,3 @@
 # DummyWhislist
-Uni BSc project: Dummy Christmas wish list maker in ASP.NET
+Uni BSc small homework: Dummy Christmas wish list maker in ASP.NET
+Created in: 2020
